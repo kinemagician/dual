@@ -29,4 +29,8 @@ test=display(dv)
     test=display(dG*dA)
 ###### Test1
 ###### Test2
+<<<<<<< HEAD
 
+=======
+###### Branch Ettore test1
+>>>>>>> 9bb18e289f1ee0aa7e70a85e28a487023b4c59f8
